@@ -2,15 +2,15 @@
 // @name        Pinyin Terminator
 // @description Generate Pinyin ruby for Chinese characters
 // @author      tizee
-// @license     MIT
-// @namespace   https://github.com/tizee
-// @homepageURL https://github.com/tizee/pinyin-terminator
+// @namespace   https://github.com/tizee-tampermonkey-scripts/tampermonkey-pinyin-terminator
+// @homepageURL https://github.com/tizee-tampermonkey-scripts/tampermonkey-pinyin-terminator
 // @require     https://cdn.jsdelivr.net/npm/pinyin-pro@3.19.6/dist/index.min.js
 // @match       *://*/*
 // @grant       GM_addStyle
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @version     1.3
+// @license     MIT
 // ==/UserScript==
 
 (function () {
